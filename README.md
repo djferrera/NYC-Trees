@@ -7,3 +7,6 @@ Using Spatial Statistics to Visually Explore New York City's Street Tree Census
 Spatial Autocorrelation: Local Moran's I
 
 Exploring New York City's trees per capita. Visualizing which census tracts have the highest rates of street trees per person, and which have the lowest.
+
+Final project:
+https://dianeferrera.com/data-tree-census.html
